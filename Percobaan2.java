@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Percobaan2 {
     static int hitungPangkat(int x, int y) {
         if (y == 0) {
